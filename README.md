@@ -1,2 +1,2 @@
-# praca2
-zadania do czwiczen
+# praca 2
+Afb
